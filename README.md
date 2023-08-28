@@ -1,7 +1,43 @@
-#test
-CSS Properties which are taught in the class are being used to complete this task.
 
-##HTML code
+# Camping Gear and Essentials Website
+
+This project is a responsive website that showcases camping gear and services. It uses HTML and CSS to create a visually appealing and user-friendly interface. The website highlights various sections, including the navigation bar, main page, services, about us, and contact us.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Overview
+
+The Camping Gear and Essentials Website is a virtual platform designed to showcase a range of camping products and services. 
+It utilizes modern HTML5 and CSS3 techniques to create an immersive experience for users interested in outdoor adventures and camping gear.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
+## Features
+
+- **Navigation Bar**: A fixed navigation bar provides easy access to different sections of the website.
+- **Main Page**: The main page features a captivating background image and a call-to-action button to navigate to services.
+- **Services**: The services section presents various camping gear services with images and descriptions.
+- **About Us**: Learn about the company's history, mission, vision, and team members.
+- **Contact Us**: Get in touch with the company using the contact form or provided contact details.
+- **Responsive Design**: The website is designed to be responsive and adaptable to different screen sizes.
+
+## Screenshots
+![image](https://github.com/sanketmahadik191/week_test4/assets/125791466/bdf8b991-9c83-4d48-a5b6-3c98e81d8755)
+![image](https://github.com/sanketmahadik191/week_test4/assets/125791466/9ac4c133-eddb-4cbf-a14d-048c6aeaefb3)
+![image](https://github.com/sanketmahadik191/week_test4/assets/125791466/831f5397-051e-4f30-b357-4be0512025dc)
+![image](https://github.com/sanketmahadik191/week_test4/assets/125791466/54ffb0e0-9ac4-4c2c-96c1-21fcc49aea87)
+
 
 Header Navigation Bar:
 
